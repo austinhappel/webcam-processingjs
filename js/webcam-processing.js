@@ -32,7 +32,7 @@
       ctx.drawImage(myImg, imageOffset, 0, height / width * nb, nb);
       p.loadPixels();
       imgPixelData = p.pixels.toArray();
-      p.frameRate(29);
+      p.frameRate(60);
 
       p.ellipseMode(p.CENTER);
       p.smooth();

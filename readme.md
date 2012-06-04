@@ -1,4 +1,4 @@
-# An experiment with Chrome's PeerConnection APIs and ProcessingJs
+# An experiment with Chrome's getUserMedia APIs and ProcessingJs
 
 ## Prerequisites
 
@@ -14,3 +14,7 @@
 	* "Enable Media Source API on <video> elements" is **activated**
 4. Put the project up on a publicly accessible webserver (I had trouble activating the webcam when accessing the page locally)
 5. open up index.html.
+
+## Notes
+
+* Your mileage may vary on other platforms. Opera supposedly supports the getUserMedia API, but I have not had any luck with it.
