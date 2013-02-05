@@ -1,5 +1,9 @@
 # An experiment with Chrome's getUserMedia APIs and ProcessingJs
 
+**Update 02/05/2013**: It looks like the latest version of Chrome doesn't need any modification to get this working. [Try this link](http://austinhappel.github.com/webcam-processingjs/) and see if it works for you.
+
+[Live example](http://austinhappel.github.com/webcam-processingjs/)
+
 ## Prerequisites
 
 1. A computer with a webcam
